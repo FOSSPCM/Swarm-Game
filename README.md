@@ -36,9 +36,9 @@ In any case, Swarm Game is Free and Open Source software.
 
 * [Jon Fincher's Python Arcade tutroial on Real Python](https://realpython.com/arcade-python-game-framework/)
 * [Official website for the Python Arcade library](https://api.arcade.academy/en/latest/index.html)
-* [GeeksforGeeks] (https://www.geeksforgeeks.org/)
-* [Paul Vincent Craven's 2D Game tutorial with Python Arcade on opensource.com] (https://www.geeksforgeeks.org/)
-* [Wikimedia Commons (where I got my images from)] (https://commons.wikimedia.org/wiki/Main_Page)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
+* [Paul Vincent Craven's 2D Game tutorial with Python Arcade on opensource.com](https://www.geeksforgeeks.org/)
+* [Wikimedia Commons (where I got my images from)](https://commons.wikimedia.org/wiki/Main_Page)
 
 ## Credits
 
