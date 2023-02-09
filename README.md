@@ -54,7 +54,6 @@ The sound effects came from KDE 2, which was developed by the KDE Free Software 
 
 ## Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * The code quality could use some TLC, and it also needs some performance tweeks.
 * The algorithms for how the sprites are being spawned needs work.
 * Adding a start screen would be nice.
