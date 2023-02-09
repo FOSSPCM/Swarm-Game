@@ -3,6 +3,7 @@
 **Swarm Game** is a simple game made with the Python Arcade engine.
 The object of the game is to pick up all of the jewels that appear on screen, while avoiding all the poison bubbles.
 You control your character using the mouse (or trackpad, or whatever you use to move the mouse cursor on your computer), and you pick up the jewels by touching them. You "die" if you touch the poison.
+
 Press "Q" to quit at any time, and press "P" to pause the game.
 
 The game's name, which isn't very unique, I know; comes from the fact that everything that appears on screen is coming at you from the left, right, top, and bottom; and there is a lot of it "swarming" the player. I believe this game is called a "Bullet Hell."
@@ -42,9 +43,13 @@ In any case, Swarm Game is Free and Open Source software.
 ## Credits
 
 The player sprite in the game is the Firefox icon from the Crystal Icons project. It was made by Everaldo Coelho, and is licensed under the GNU Lesser General Public License v2.1.
+
 Firefox is a trademark of Mozilla. I hope they don't mind.
+
 The poison sprite is made by someone under the alias of 7Soul1. It is licensed under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+
 The diamond sprite is made by someone under the alias of gubrww. It is licensed under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+
 The sound effects came from KDE 2, which was developed by the KDE Free Software community. I don't know exactly who made the sounds, but they are licensed under the GNU Lesser General Public License v2.1.
 
 ## Future Work
