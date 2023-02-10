@@ -1,6 +1,6 @@
 # Swarm Game
 
-**Swarm Game** is a simple game made with the Python Arcade engine.
+**Swarm Game** is a simple game I threw together with the Python Arcade engine.
 The object of the game is to pick up all of the jewels that appear on screen, while avoiding all the poison bubbles.
 You control your character using the mouse (or trackpad, or whatever you use to move the mouse cursor on your computer), and you pick up the jewels by touching them. You "die" if you touch the poison.
 
@@ -10,7 +10,7 @@ The game's name, which isn't very unique, I know; comes from the fact that every
 
 The purpose for writing this game was for me to learn how a game engine worked. I was also itching to pick up Python again, having been using other languages for quite some time now. It was pretty neat.
 
-[Software Demo Video](Coming soon!)
+[Software Demo Video](https://youtu.be/MLXRm49_1x4)
 
 ## "build" Instructions
 
